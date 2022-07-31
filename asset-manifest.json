@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://resumejs.netlify.com/static/css/main.0e8ebf92.chunk.css",
+    "main.js": "https://resumejs.netlify.com/static/js/main.fbb4a838.chunk.js",
+    "runtime-main.js": "https://resumejs.netlify.com/static/js/runtime-main.ef145cd3.js",
+    "static/css/2.8b26d059.chunk.css": "https://resumejs.netlify.com/static/css/2.8b26d059.chunk.css",
+    "static/js/2.056ddb67.chunk.js": "https://resumejs.netlify.com/static/js/2.056ddb67.chunk.js",
+    "index.html": "https://resumejs.netlify.com/index.html",
+    "precache-manifest.ef4a7f0f8818b5a9887d3bed0772fa13.js": "https://resumejs.netlify.com/precache-manifest.ef4a7f0f8818b5a9887d3bed0772fa13.js",
+    "service-worker.js": "https://resumejs.netlify.com/service-worker.js",
+    "static/js/2.056ddb67.chunk.js.LICENSE.txt": "https://resumejs.netlify.com/static/js/2.056ddb67.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "https://resumejs.netlify.com/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/github.svg": "https://resumejs.netlify.com/static/media/github.f6712b87.svg",
+    "static/media/internet.svg": "https://resumejs.netlify.com/static/media/internet.9b60e9cb.svg",
+    "static/media/linkedin.svg": "https://resumejs.netlify.com/static/media/linkedin.79d7627c.svg",
+    "static/media/mail.svg": "https://resumejs.netlify.com/static/media/mail.4cccbcf4.svg",
+    "static/media/phone.svg": "https://resumejs.netlify.com/static/media/phone.a8f7f8cd.svg",
+    "static/media/star-blank.svg": "https://resumejs.netlify.com/static/media/star-blank.c4dfb961.svg",
+    "static/media/star-fill.svg": "https://resumejs.netlify.com/static/media/star-fill.6169362e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef145cd3.js",
+    "static/css/2.8b26d059.chunk.css",
+    "static/js/2.056ddb67.chunk.js",
+    "static/css/main.0e8ebf92.chunk.css",
+    "static/js/main.fbb4a838.chunk.js"
+  ]
+}
